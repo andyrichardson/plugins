@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.6.0](https://www.github.com/netlify/plugins/compare/v3.5.0...v3.6.0) (2021-08-30)
+
+
+### Features
+
+* guidelines for proper `netlifyConfig` usage ([#433](https://www.github.com/netlify/plugins/issues/433)) ([083f3c1](https://www.github.com/netlify/plugins/commit/083f3c1c131a76a35c469bbf3aa278e2c30dc4b3))
+
 ## [3.5.0](https://www.github.com/netlify/plugins/compare/v3.4.0...v3.5.0) (2021-08-23)
 
 
